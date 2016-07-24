@@ -2,11 +2,11 @@
 layout: post
 title: 只言
 description: Die Liebe zu Welt.
-category: blog
+category: tech
 ---
 
 
 
 
 
-[Mukosame]:    http://mukosame.github.io  "Mukosame"
+[Dvector89]:    http://dvector89.github.io  "Dvector89"

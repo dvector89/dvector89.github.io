@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 匠心
-category: project
+category: life
 description: Dinge von Hand gemacht.
 ---
 # [{{ page.title }}][1]
 2015-12-12 By {{ site.author_info }}
 
 
-[Mukosame]:    http://mukosame.github.io  "Mukosame"
+[Dvector89]:    http://dvector89.github.io  "Dvector89"
 [1]:    {{ page.url}}  ({{ page.title }})

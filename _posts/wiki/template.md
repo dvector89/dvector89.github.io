@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 不语
-category: dump
+category: wiki
 description: Die Erkenntnis.
 ---
 
-[Mukosame]:    http://mukosame.github.io  "Mukosame"
+[Dvector89]:    http://dvector89.github.io  "Dvector89"
