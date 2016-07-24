@@ -5,7 +5,7 @@ highlighter: 'pygments'
 #paginate: 8
 permalink: /:title
 
-title: Hyper Hamster
-url: http://mukosame.github.io
+title: Double Vector
+url: http://dvector89.github.io
 feed: /atom.xml
-author_info: <a href="http://mukosame.github.io/">Mukosame</a>
+author_info: <a href="http://dvector89.github.io/">Dvector89</a>

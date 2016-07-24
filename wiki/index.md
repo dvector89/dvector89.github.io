@@ -2,18 +2,18 @@
 layout: home
 ---
 
-<div class="index-content dump">
+<div class="index-content wiki">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>Blog</span></a></li>
-            <li class="on" style="text-align:center"><a href="/dump"><span>Dump</span></a></li>
-            <li style="text-align:right"><a href="/project"><span>Project</span></a></li>
+            <li><a href="/"><span>Tech</span></a></li>
+            <li class="on" style="text-align:center"><a href="/wiki"><span>Wiki</span></a></li>
+            <li style="text-align:right"><a href="/life"><span>Life</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.dump %}
+        {% for post in site.categories.wiki %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>
