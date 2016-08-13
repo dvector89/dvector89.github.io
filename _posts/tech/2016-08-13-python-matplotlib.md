@@ -166,4 +166,9 @@ canvas.print_figure('../pic/cos_sin.jpg')
 ```
 效果如下：  
 ![](/images/cos_sin.jpg)  
-此外，图中的text都可以含有公式（只需用$包围起来即可）。
+此外，图中的text都可以含有公式（只需用$包围起来即可）。  
+
+参考：  
+（1）[http://www.cnblogs.com/vamei/archive/2013/01/30/2879700.html](http://www.cnblogs.com/vamei/archive/2013/01/30/2879700.html)  
+（2）[http://www.labri.fr/perso/nrougier/teaching/matplotlib/#simple-plot](http://www.labri.fr/perso/nrougier/teaching/matplotlib/#simple-plot)  
+（3）[http://matplotlib.org/faq/usage_faq.html#what-is-a-backend](http://matplotlib.org/faq/usage_faq.html#what-is-a-backend)
