@@ -2,7 +2,7 @@
 layout:	post
 title:	PPT精要
 category:	life
-description:	知乎让看到的一个关于写PPT的回答。
+description:	知乎上看到的一个关于写PPT的回答。
 ---
 文章来源：[戳此处](https://www.zhihu.com/question/34019077/answer/57762067)  
 PPT三要素：逻辑架构、文字表达以及视觉呈现。
